@@ -1,4 +1,4 @@
-﻿Molecular rendering软件 V1.6.1
+﻿Molecular rendering软件 V1.6.4
 发布方：MR
 联系邮箱：3175911862@qq.com
 
@@ -18,3 +18,7 @@
 
 安装包未进行商业代码签名，Windows可能显示未知发布者。请核对GitHub发行页提供的SHA-256，不要关闭系统安全防护。
 软件用于可视化与后处理，不执行分子动力学模拟。请核对输入单位、边界、编号、分析判据及结果。
+
+完整图文说明书：开始菜单中的“中文使用说明书”与“English User Manual”，或安装目录中的两份PDF。
+官方下载：https://github.com/wangmumu128/Molecular-rendering/releases/latest
+个人版当前售价：64元；同一购买者最多两台设备，包含后续全部已发布版本更新。
