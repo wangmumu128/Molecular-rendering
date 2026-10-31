@@ -2,16 +2,24 @@
 
 面向分子结构、晶胞和分子动力学轨迹的 Windows 桌面可视化与分析软件。
 
-**当前版本：V1.6.5｜Windows 10/11 64位｜联系邮箱：3175911862@qq.com**
+**当前版本：V1.6.6｜Windows 10/11 64位｜联系邮箱：3175911862@qq.com**
 
 [下载安装包](https://github.com/wangmumu128/Molecular-rendering/releases/latest) · [安装与激活说明](使用说明/安装与激活说明.txt) · [更新记录](CHANGELOG.md)
 
 ## 中英文使用说明书
 
-- [中文PDF：30页、28章](使用说明/MolecularRendering-V1.6.5-User-Manual-ZH.pdf)
-- [English PDF: 30 pages, 28 chapters](使用说明/MolecularRendering-V1.6.5-User-Manual-EN.pdf)
+- [中文PDF：30页、28章](使用说明/MolecularRendering-V1.6.6-User-Manual-ZH.pdf)
+- [English PDF: 31 pages, 28 chapters](使用说明/MolecularRendering-V1.6.6-User-Manual-EN.pdf)
 - 两份PDF包含可点击目录、功能步骤、参数含义、界面与结果示例、输出文件和问题排查。安装程序也会将说明书放入安装目录并添加开始菜单入口。
 - 英文说明书对应相同功能，软件操作界面仍以中文为主。
+
+## V1.6.6 更新
+
+- 模型样式改为按原子类型设置，支持单选或多选球体、球棍、棍和细线，未勾选类型保持原样。
+- 在原子类型表下点击设置所选类型模型，或从模型样式与创建键进入；可分别设置球体比例、球棍/棍直径及细线直径。
+- 类型设置随配置保存，切换轨迹帧、渲染图片和导出动画继续使用；可仅恢复勾选类型的默认样式，兼容旧版全局配置。
+- 混合类型连接取两端较细直径，任一端为球体模型时不显示该键；不改写源数据和键拓扑。
+- [按原子类型设置模型：操作步骤与截图](使用说明/按原子类型设置模型说明.md)
 
 ## V1.6.5 更新
 
@@ -31,7 +39,7 @@
 
 ## 安装与激活
 
-1. 在 Releases 下载 `MolecularRendering-1.6.5-Windows-x64-Setup.exe`，无需另装 Python。
+1. 在 Releases 下载 `MolecularRendering-1.6.6-Windows-x64-Setup.exe`，无需另装 Python。
 2. 运行安装程序，可自行选择安装目录，并创建水分子桌面快捷方式。
 3. 首次启动显示设备识别码；购买后将订单信息和设备码发给售后邮箱。
 4. 收到激活码后粘贴并激活。已有 `.mrlicense` 授权文件也可导入。
