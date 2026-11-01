@@ -1,11 +1,13 @@
-﻿# Molecular rendering软件 V1.6.6 使用说明
+﻿# Molecular rendering软件 V1.6.7 使用说明
 
 完整图文说明书位于安装目录，可通过开始菜单打开。中文30页、英文31页，均为28章，含封面、可点击目录、界面截图和分析示例。
 
 - [中文使用说明书](MolecularRendering-V1.6.6-User-Manual-ZH.pdf)
 - [English User Manual](MolecularRendering-V1.6.6-User-Manual-EN.pdf)
 
-本次更新：[按原子类型设置模型](按原子类型设置模型说明.md)。
+本次更新：[界面主题兼容修复](界面主题兼容修复说明.md)。V1.6.6中英文手册继续适用。
+
+之前更新：[按原子类型设置模型](按原子类型设置模型说明.md)。
 
 之前更新：详见[自选保存目录与模型样式](自选保存目录与模型样式说明.md)。
 
@@ -23,7 +25,7 @@
 
 ## 更新与支持
 
-版本：V1.6.6。Windows 10/11 x64安装版，自带运行环境。
+版本：V1.6.7。Windows 10/11 x64安装版，自带运行环境。
 个人版当前售价15元，同一购买者最多两台设备，支持联系售后换机，包含后续全部已发布版本更新。已有有效设备授权继续使用。
 联系邮箱：3175911862@qq.com。
 官方下载：https://github.com/wangmumu128/Molecular-rendering/releases/latest
