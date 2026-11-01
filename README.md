@@ -6,6 +6,16 @@
 
 [下载安装包](https://github.com/wangmumu128/Molecular-rendering/releases/latest) · [安装与激活说明](使用说明/安装与激活说明.txt) · [更新记录](CHANGELOG.md)
 
+## 功能与界面展示
+
+分子动力学轨迹可视化与数据分析示例，包括模型渲染、剪切应变云图、一维/二维密度、RDF和MSD图件。
+
+![分子动力学轨迹可视化与数据分析示例](images/rendering-analysis-overview.png)
+
+V1.6.6中文操作界面，展示四视口布局、原子类型参数和轨迹播放控制区。
+
+![Molecular rendering软件V1.6.6操作界面](images/desktop-interface-v1.6.6.png)
+
 ## 中英文使用说明书
 
 - [中文PDF：30页、28章](使用说明/MolecularRendering-V1.6.6-User-Manual-ZH.pdf)
