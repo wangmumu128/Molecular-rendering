@@ -21,4 +21,4 @@
 
 完整图文说明书：开始菜单中的“中文使用说明书”与“English User Manual”，或安装目录中的两份PDF。
 官方下载：https://github.com/wangmumu128/Molecular-rendering/releases/latest
-个人版当前售价：64元；同一购买者最多两台设备，包含后续全部已发布版本更新。
+个人版当前售价：15元；同一购买者最多两台设备，包含后续全部已发布版本更新。
